@@ -10,4 +10,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: '/Search-Filter-System/'
 })
